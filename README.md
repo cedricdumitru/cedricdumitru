@@ -1,12 +1,10 @@
 # I am a Senior Full Stack Developer
 
-Senior FullStack Developer with 9+ years of experience in designing, developing, and deploying scalable, high-performance web applications. Proficient in React.js, Node.js, and Typescript, with a strong
-foundation in modern front-end and back-end architectures. Expert in React.js, Node.js, TypeScript, and a variety of
-modern web and backend technologies.
-Deep expertise in microservices, distributed systems, DevOps, and cloud-native development. Expertise spans RESTful &
-GraphQL API development, microservices architecture, and cloud-based deployment with AWS, Docker, and Kubernetes.
-Strong advocate for best coding practices, performance optimization, and test-driven development(TDD). Proven ability to
-collaborate across teams in Agile environments to deliver robust and innovative solutions.
+Highly skilled and accomplished Full Stack Developer with over 9+ years of experience designing, developing, and
+deploying scalable, high-performance applications. Proficient in React.js, Node.js, and TypeScript, with a strong foundation
+in modern front-end and back-end architectures. Expert in microservices, distributed systems, and cloud-native
+development, with deep expertise in AWS, Docker, Kubernetes, and test-driven development. Proven track record of
+delivering robust, innovative solutions in Agile environments.
 
 ---
 
