@@ -1,12 +1,5 @@
 # I am a Senior Full Stack Developer
 
-Innovative and results-driven Senior Full Stack Engineer with 9+ years of experience delivering high-performance,
-scalable, and maintainable software solutions across diverse industries. Expert in React.js, TypeScript, Node.js, and
-cloud-native architectures with a proven record in RESTful/GraphQL API design, microservices, and real-time
-applications. Adept at bridging product vision with technical execution, optimizing UI/UX through advanced performance
-strategies, and championing DevOps practices including CI/CD, infrastructure-as-code, and automated testing. Skilled in
-AWS, Firebase, Docker, and Kubernetes, with a track record of driving digital transformation for both startups and
-enterprise clients in agile, distributed environments.
 
 ---
 
