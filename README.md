@@ -3,10 +3,6 @@
 
 ---
 
-**Social Media:**
-
-[![GitHub](icons/github.png)](https://github.com/cedricdumitru)
-
 **Currently working with:**
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
