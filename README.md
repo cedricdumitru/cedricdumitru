@@ -6,7 +6,6 @@
 **Social Media:**
 
 [![GitHub](icons/github.png)](https://github.com/cedricdumitru)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/cedric-teo-951247379)
 
 **Currently working with:**
 
